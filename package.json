@@ -10,7 +10,7 @@
     "@types/node": "10.14.0",
     "rxjs-compat": "6.4.0",
     "@angular/cdk": "6.4.7",
-    "@angular/core": "6.1.10",
+    "@angular/core": "10.2.5",
     "@angular/http": "6.1.10",
     "@angular/forms": "6.1.10",
     "@types/jasmine": "2.8.16",
